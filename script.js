@@ -64,5 +64,4 @@ function toggleTaskStatus(id) {
     displayTasks();
 }
 
-// Initial display
 displayTasks();
